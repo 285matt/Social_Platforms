@@ -1,0 +1,6 @@
+
+
+myObj = {"firstName": "Matt", "lastName": "Lovell", "displayHandle": "285matt"};
+"posts":["Football is Back!", "More. Coffee. Required.", "Can this Florida heat stop?!"]
+"age": 22
+"active":true
