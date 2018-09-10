@@ -1,6 +1,8 @@
 {
-"firstName": "Matt", "lastName": "Lovell", "displayHandle": "285matt";
-"posts":["Football is Back!", "More. Coffee. Required.", "Can this Florida heat stop?!"]
-"age": 22
-"active":true
- }
+  "firstName":"Matt",
+  "lastName":"Lovell",
+  "displayHandle":"285matt",
+  "posts":["Post One", "Post 2", "Post 3"],
+  "age": 22,
+  "active": true
+}
