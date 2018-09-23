@@ -1,0 +1,71 @@
+{
+	"name": [
+		"Ben",
+		"Allison",
+		"Courtney",
+		"David",
+		"Elizabeth",
+		"Fred"
+	],
+	"occupation": [
+		"Doctor",
+		"Teacher",
+		"Mover",
+		"Engineer",
+		"Chef",
+		"Hacker"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this... a #condition# #item#. They #want# #required# one, but it was too #big# for them to #take# from their #parents#."
+	],
+	"always": [
+		"Always",
+		"Never",
+		"Rarely",
+		"Sometimes"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"dreaming"
+	],
+	"condition": [
+		"new",
+		"modern",
+		"pre-owned"
+	],
+	"item": [
+		"car",
+		"bike",
+		"computer",
+		"shirt"
+	],
+	"want": [
+		"always",
+		"never"
+	],
+	"required": [
+		"required",
+		"needed",
+		"wanted"
+	],
+	"big": [
+		"big",
+		"expensive",
+		"tall",
+		"old",
+		"fragile"
+	],
+	"take": [
+		"steal",
+		"take",
+		"borrow",
+		"buy"
+	],
+	"parents": [
+		"parents",
+		"friends",
+		"boss",
+		"neighbor"
+	]
+}
